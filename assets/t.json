@@ -1,0 +1,53 @@
+{
+  "icecreams" : [
+    {
+      "quantity": 3,
+      "flavor": "Vanilla",
+      "image": "https://images.unsplash.com/photo-1560008581-09826d1de69e?q=80&w=1044&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 4.99,
+      "description": "Classic vanilla ice cream that everyone loves!",
+      "toppings": ["Whipped Cream", "Sprinkles"],
+      "ingredients": [
+        {"name" :  "Vanilla" , "quantity":  "3"},
+        {"name" :  "Vanilla" , "quantity":  "3"},
+        {"name" :  "Vanilla" , "quantity":  "3"}
+      ]
+    },
+    {
+      "quantity": 2,
+      "flavor": "Chocolate",
+      "image": "https://images.unsplash.com/photo-1514849302-984523450cf4?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": ["Milk", "Sugar", "Cocoa Powder"],
+      "price": 5.99,
+      "description": "Rich and indulgent chocolate ice cream for chocolate lovers.",
+      "toppings": ["Chocolate Sauce", "Nuts"]
+    },
+    {
+      "quantity": 4,
+      "flavor": "Strawberry",
+      "image": "https://images.unsplash.com/photo-1532678465554-94846274c297?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": ["Milk", "Sugar", "Strawberries"],
+      "price": 6.49,
+      "description": "Fresh and fruity strawberry ice cream to delight your taste buds.",
+      "toppings": ["Fresh Strawberries", "Whipped Cream"]
+    },
+    {
+      "quantity": 1,
+      "flavor": "Mint Chocolate Chip",
+      "image": "https://pintsofjoy.com/cdn/shop/products/2_3b157e13-112d-4700-a339-3b40937dfa43_600x.png?v=1614649016",
+      "ingredients": ["Milk", "Sugar", "Mint Extract", "Chocolate Chips"],
+      "price": 7.99,
+      "description": "Cool and refreshing mint ice cream with chocolate chips.",
+      "toppings": ["Chocolate Chips", "Mint Leaves"]
+    },
+    {
+      "quantity": 3,
+      "flavor": "Caramel",
+      "image": "https://www.thekitchenmccabe.com/wp-content/uploads/2014/07/Salted-Caramel-Ice-Cream-3-527x794.jpg",
+      "ingredients": ["Milk", "Sugar", "Caramel Sauce", "Crunchy Bits"],
+      "price": 6.99,
+      "description": "Sweet and gooey caramel ice cream with a delightful crunch.",
+      "toppings": ["Caramel Drizzle", "Toffee Bits"]
+    }
+  ]
+}
